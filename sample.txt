@@ -1,2 +1,3 @@
 test git
-Add another linee
+Add another line
+Add a new line from Windows
